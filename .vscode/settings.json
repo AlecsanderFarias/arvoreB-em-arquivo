@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "random": "c",
+    "arq.h": "c",
+    "arqmaterial.h": "c",
+    "sstream": "c",
+    "typeinfo": "c"
+  }
+}
